@@ -4,13 +4,21 @@
   
     
     <entry>
-      <title></title>
+      <title>标签测试</title>
       <link href="/2023/02/10/%E7%AC%AC%E4%B8%80%E7%AF%87markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
       <url>/2023/02/10/%E7%AC%AC%E4%B8%80%E7%AF%87markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="Blog"><a href="#Blog" class="headerlink" title="Blog"></a>Blog</h1><p>这是我的第一篇markdown格式的博客</p><p><img src="https://cdn.jsdelivr.net/gh/Jackyu224/MyPic@master/img/wallhaven-zyyx1o.jpg" alt="blog"></p>]]></content>
+        <content type="html"><![CDATA[<hr><p>title: 分类测试<br>categories:</p><ul><li><p>分类1                   （这个就是文章的分类了）</p></li><li><p>分类2                   （这个就是文章的分类了）</p></li></ul><hr><p><img src="https://cdn.jsdelivr.net/gh/Jackyu224/MyPic@master/img/wallhaven-zyyx1o.jpg" alt="blog"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> test1                 （这个就是文章的标签了） </tag>
+            
+            <tag> test2                  （这个就是文章的标签了） </tag>
+            
+        </tags>
       
     </entry>
     
